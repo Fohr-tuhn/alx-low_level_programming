@@ -1,8 +1,8 @@
 /**
  * swap_int - this function swaps values
  *
- * @a: value
- * @b: value
+ * @a:value
+ * @b:value
  */
 void swap_int(int *a, int *b)
 {
